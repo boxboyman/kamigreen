@@ -38,8 +38,8 @@ Please go to [https://blue.bella.wtf](https://blue.bella.wtf) for documentation 
 
 [ronmamo](https://github.com/ronmamo/) for [Reflections](https://github.com/ronmamo/reflections)
 
-The [Minecraft Forge team](https://github.com/MinecraftForge) for [forge](https://files.minecraftforge.net/)
-
 [S-B99](https://github.com/S-B99) for [KAMI Blue](https://github.com/S-B99/kamiblue)
+
+The [Minecraft Forge team](https://github.com/MinecraftForge) for [forge](https://files.minecraftforge.net/)
 
 All the [contributors](https://github.com/S-B99/kamiblue/graphs/contributors), including the ones who will be remembered in comments and in our hearts. This has been a huge community effort and I couldn't have done it without them.
