@@ -40,11 +40,11 @@ Please go to [https://blue.bella.wtf](https://blue.bella.wtf) for documentation 
 
 [zeroeightysix](https://github.com/zeroeightysix) for the original [KAMI](https://github.com/zeroeightysix/KAMI)
 
+[S-B99](https://github.com/S-B99) for [KAMI Blue](https://github.com/S-B99/kamiblue)
+
 [ZeroMemes](https://github.com/ZeroMemes) for [Alpine](https://github.com/ZeroMemes/Alpine)
 
 [ronmamo](https://github.com/ronmamo/) for [Reflections](https://github.com/ronmamo/reflections)
-
-[S-B99](https://github.com/S-B99) for [KAMI Blue](https://github.com/S-B99/kamiblue)
 
 The [Minecraft Forge team](https://github.com/MinecraftForge) for [forge](https://files.minecraftforge.net/)
 
