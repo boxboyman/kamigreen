@@ -1,4 +1,4 @@
-<img src="https://github.com/S-B99/kamiblue/blob/assets/assets/icons/kami.svg" align="left" width="120"/>
+<img src="https://github.com/boxboyman/kamigreen/blob/feature/master/New%20Project.png" align="left" width="120"/>
 
 # KAMI Green
 
