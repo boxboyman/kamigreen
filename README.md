@@ -1,6 +1,6 @@
 <img src="https://github.com/S-B99/kamiblue/blob/assets/assets/icons/kami.svg" align="left" width="120"/>
 
-# KAMI Blue 
+# KAMI Green
 
 ### A Minecraft utility mod for anarchy servers
 
