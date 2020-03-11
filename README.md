@@ -6,7 +6,7 @@
 
 # 
 <a href="https://github.com/S-B99/kamiblue/releases/download/v1.1.2/KAMI-Blue-v1.1.2-release.jar">
-<img src="https://github.com/S-B99/kamiblue/blob/assets/assets/icons/download.svg" width="200"/>
+<img src="https://github.com/boxboyman/kamigreen/blob/feature/master/New%20Project.png" width="200"/>
 </a>
 
 ***
